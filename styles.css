@@ -1,0 +1,14 @@
+.menu-toggle {
+	display: inline-block;
+	cursor: pointer;
+  }
+  
+  .bar {
+	width: 30px;
+	height: 4px;
+	background-color: #000;
+	margin-bottom: 6px;
+  }
+  
+  /* Estilize as barras para que elas se pareçam com um ícone de "hamburguer" */
+  
